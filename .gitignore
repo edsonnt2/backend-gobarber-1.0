@@ -2,4 +2,6 @@ node_modules/
 .vscode/
 tmp/*
 !tmp/.gitkeep
-
+coverage/
+.env
+ormconfig.json
